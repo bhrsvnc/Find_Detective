@@ -1,0 +1,12 @@
+n = int(input())
+text = input()
+text.lower()
+if text.find("detective"):
+    print(n-9)
+else:
+    print(n)
+
+
+
+    
+    
